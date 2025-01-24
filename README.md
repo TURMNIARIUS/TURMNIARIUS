@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi! Welcome to my GitHub
 
-<!--
-**TURMNIARIUS/TURMNIARIUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+Hi! I'm Miguel, a student interested in software development, artificial intelligence, automation, and translation. I'm currently exploring different areas and programming languages to build cool and useful projects.
 
-Here are some ideas to get you started:
+Right now, I'm:
+- 📚 Learning: Java, Python, and R.
+- 💡 Exploring: AI and automation.
+- 🤝 Open to collaborations on interesting projects (though I don't have contribution guidelines yet).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Featured Projects
+# 🚧 Under Construction 🚧
+
+---
+
+## 💻 Technologies & Tools
+Here are some of the tools and languages I'm working with or learning:  
+- Languages: C/C++, Java, Python, R.  
+- Tools: LaTeX (advanced level).  
+
+---
+
+## 🛠️ Want to Collaborate?
+I'm open to collaboration! If you have any projects related to my areas of interest, feel free to reach out. 
+
+📧 Email: miguel_ayala30@hotmail.com  
+🌐 LinkedIn: 🚧 WIP 🚧  
+
+---
+
+## 📊 Stats
+# 🚧 Under Construction 🚧  
+
+---
+
+## 📜 Licenses
+# 🚧 Under Construction 🚧
+
+---
+
+Thanks for visiting my profile! 😊  
